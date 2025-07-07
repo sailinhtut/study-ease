@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NoteTask</string>
+    <string name="facebook_app_id">1349822495759350</string>
+    <string name="fb_login_protocol_scheme">fb1349822495759350</string>
+    <string name="facebook_client_token">4682982a9823272221c1effa5ba008ad</string>
+</resources>
