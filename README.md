@@ -1,16 +1,34 @@
-# notetask
+# 🛍️ Study Ease
 
-A new Flutter project.
+**Myth Store** is a modern and elegant note taking application built with **Flutter**. Designed for
+speed, style, and scalability.
 
-## Getting Started
+## 📸 Previews
 
-This project is a starting point for a Flutter application.
+![Landing Page](https://github.com/sailinhtut/study-ease/blob/main/preview/1.png)
+![Landing Page](https://github.com/sailinhtut/study-ease/blob/main/preview/2.png)
+![Landing Page](https://github.com/sailinhtut/study-ease/blob/main/preview/3.png)
+![Landing Page](https://github.com/sailinhtut/study-ease/blob/main/preview/4.png)
+![Landing Page](https://github.com/sailinhtut/study-ease/blob/main/preview/5.png)
+![Landing Page](https://github.com/sailinhtut/study-ease/blob/main/preview/6.png)
+![Landing Page](https://github.com/sailinhtut/study-ease/blob/main/preview/7.png)
+![Landing Page](https://github.com/sailinhtut/study-ease/blob/main/preview/8.png)
+![Landing Page](https://github.com/sailinhtut/study-ease/blob/main/preview/9.png)
+![Landing Page](https://github.com/sailinhtut/study-ease/blob/main/preview/10.png)
+![Landing Page](https://github.com/sailinhtut/study-ease/blob/main/preview/11.png)
+![Landing Page](https://github.com/sailinhtut/study-ease/blob/main/preview/12.png)
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Getting Started
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+To run and develop.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+git clone https://github.com/sailinhtut/study-ease.git
+flutter run
+```
+
+To build production web bundle (HTML, CSS, JavaScript).
+
+```bash
+flutter build
+```
