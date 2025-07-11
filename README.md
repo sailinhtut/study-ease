@@ -1,6 +1,6 @@
 # 🛍️ Study Ease
 
-**Myth Store** is a modern and elegant note taking application built with **Flutter**. Designed for
+**Study Ease** is a modern and elegant note taking application built with **Flutter**. Designed for
 speed, style, and scalability.
 
 ## 📸 Previews
